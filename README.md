@@ -1,1 +1,2 @@
-# Run4President7
+Run For President description:
+Run For President is an runner game that goes on until you answer all 3 questions of the presidents. there are 5 presidents so far and and we need a easy,medium and hard mode for each,the questions are already written out but the sprites are still in progress. currently i am making a begginer level which will show pictures of presidents and vice presidents and you must press on the pictures of the president and not on the vice presidents.
